@@ -73,7 +73,9 @@ Lembre-se que você pode consultar nosso conteúdo sobre [_Git & GitHub_](https:
 
 Neste projeto você implementará análises a partir de um conjunto de dados sobre empregos. Suas implementações serão incorporadas a um aplicativo Web desenvolvido com Flask (um framework web muito popular na comunidade Python). Você também terá a oportunidade de escrever testes para a implementação de uma análise de dados. Por fim, como bônus, você terá o desafio de escrever uma rota e view para um recurso novo usando Flask!
 
-Os dados foram extraídos do site [Glassdoor](https://www.glassdoor.com.br/) e obtidos através do [Kaggle](https://www.kaggle.com/atharvap329/glassdoor-data-science-job-data), uma plataforma disponiblizando conjuntos de dados para cientistas de dados.
+Os dados foram extraídos do site [Glassdoor](https://www.glassdoor.com.br/) e obtidos através do [Kaggle](https://www.kaggle.com/atharvap329/glassdoor-
+
+-science-job-data), uma plataforma disponiblizando conjuntos de dados para cientistas de dados.
 
 ---
 
@@ -130,8 +132,8 @@ Na estrutura deste _template_, você deve implementar as funções necessárias.
 
 ### Data de Entrega
 
-- Serão `X` dias de projeto.
-- Data de entrega para avaliação final do projeto: `DD/MM/YYYY - 14:00h`.
+- Serão 8 dias de projeto.
+- Data de entrega para avaliação final do projeto: `24/08/2021 - 14:00h`.
 
 ---
 
